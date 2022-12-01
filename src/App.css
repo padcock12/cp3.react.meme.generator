@@ -1,0 +1,50 @@
+h1 {
+  text-align: center;
+}
+
+button {
+    text-align: center;
+}
+
+#randomButton {
+    text-align: center;
+}
+
+h2 {
+    padding-top: 2em;
+}
+
+h1 {
+    text-decoration: underline;
+}
+
+#aboutMe {
+    text-decoration: underline;
+}
+
+#aboutContainer {
+    text-align: center;
+}
+
+#welcomePic {
+    text-align: center;
+}
+
+#welcomeTitle {
+    padding-bottom: 1em;
+}
+
+#footer {
+    padding-top: 2em;
+    color: black;
+}
+
+a {
+    color: black;
+}
+
+p {
+    padding-top: 1em;
+    margin-left: 2em;
+    margin-right: 2em;
+}
